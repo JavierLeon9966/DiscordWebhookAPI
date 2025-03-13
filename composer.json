@@ -9,7 +9,7 @@
 		}
 	},
 	"require": {
-		"pmmp/pocketmine-mp": "^5.0.0"
+		"pocketmine/pocketmine-mp": "^5.0.0"
 	},
 	"extra": {
 		"virion":{
