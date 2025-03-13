@@ -1,0 +1,20 @@
+{
+	"name": "cortexpe/discordwebhookapi",
+	"description": "A PocketMine-MP Virion to easily send messages via Discord Webhookss",
+	"type": "library",
+	"license": "LGPL-3.0-only",
+	"autoload": {
+		"psr-0": {
+			"CortexPE\\DiscordWebhookAPI\\": "src/"
+		}
+	},
+	"require": {
+		"pmmp/pocketmine-mp": "^5.0.0"
+	},
+	"extra": {
+		"virion":{
+			"spec": "3.0",
+			"namespace-root": "CortexPE\\DiscordWebhookAPI"
+		}
+	}
+}
